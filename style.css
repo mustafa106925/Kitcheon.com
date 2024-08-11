@@ -1,0 +1,443 @@
+body  {
+      background-color: hotpink; 
+      background-image: url("https://i.etsystatic.com/28949869/r/il/fe1a4b/3032210228/il_fullxfull.3032210228_hbmh.jpg");
+ 
+}
+h1  {
+  background-color: pink;
+  color:black;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+}
+p {
+  color:black;
+  background-color: white;
+  border: 2mm;
+  width:50mm;
+  border-style: inset;
+  border-radius: 1mm;
+  border-width: 1mm;
+  border-spacing: smaller;
+}
+h3 {
+  
+  text-decoration: lightsalmon;
+  background-color: yellow;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container {
+  position: relative;
+  display: inline-block;
+}
+
+.hidden-text {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.container:hover .hidden-text {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+  
+  opacity:1;
+  visibility: visible;
+}
+
+.commaa{
+  position: relative;
+  display: inline-block;
+}
+.txt{
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+.commaa:hover .txt{
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.mash {
+  position: relative;
+  display: inline-block;
+}
+
+.txt1 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.mash:hover .txt1 {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.balti {
+  position: relative;
+  display: inline-block;
+}
+
+.txt2 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.balti:hover .txt2 {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.koyla {
+  position: relative;
+  display: inline-block;
+}
+
+.txt3 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.koyla:hover .txt3 {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.msl {
+  position: relative;
+  display: inline-block;
+}
+
+.txt4 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.msl:hover .txt {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.qeem {
+  position: relative;
+  display: inline-block;
+}
+
+.txt5 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.qeem:hover .txt5 {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.white {
+  position: relative;
+  display: inline-block;
+}
+
+.txt6 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.white:hover .txt6 {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.jalf {
+  position: relative;
+  display: inline-block;
+}
+
+.txt7 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.jalf:hover .txt7 {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.qorma {
+  position: relative;
+  display: inline-block;
+}
+
+.txt4 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.qorma:hover .txt4 {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.nih {
+  position: relative;
+  display: inline-block;
+}
+
+.txt9 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.nih:hover .txt9 {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.Koft {
+  position: relative;
+  display: inline-block;
+}
+
+.txt8 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.Koft:hover .txt8 {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.las {
+  position: relative;
+  display: inline-block;
+}
+
+.txt10 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.las:hover .txt10 {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.pst {
+  position: relative;
+  display: inline-block;
+}
+
+.txt11 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.pst:hover .txt11 {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.brown {
+  position: relative;
+  display: inline-block;
+}
+
+.txt12 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.brown:hover .txt12{
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
+.dec {
+  position: relative;
+  display: inline-block;
+}
+
+.txt14 {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  visibility: hidden;
+}
+
+.dec:hover .txt14 {
+  text-decoration: line;
+  padding-right:10px;
+   border :  2px solid;
+    border-color:yellow;
+    color:blue;
+   background-color: white;
+    width:80px;
+
+  opacity:1;
+  visibility: visible;
+}
